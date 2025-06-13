@@ -98,12 +98,7 @@ Trained and evaluated 3 models:
 
 ---
 
-## 📹 Proof of Work
 
-- 🎥 LinkedIn Video: [🔗 Add Your LinkedIn Post Link Here]
-- 📁 GitHub Repo: [https://github.com/AnnavarapuGanesh/ShadowFox](https://github.com/AnnavarapuGanesh/ShadowFox)
-
----
 
 ## 🏁 Conclusion
 
