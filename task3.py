@@ -2,7 +2,7 @@
 """
 Week 3 Task: AI-Driven Natural Language Processing Project
 Language Model: GPT-2
-Author: [Your Name]
+Author: [Annavarapu Ganesh]
 Date: June 19, 2025
 
 Project Overview:
@@ -13,10 +13,6 @@ performance across various NLP scenarios.
 Reference: https://roadmap.sh/ai-data-scientist
 """
 
-# # Install required libraries
-# !pip install transformers torch matplotlib seaborn wordcloud numpy pandas plotly
-# !pip install bertviz # For attention visualization
-# # Cell 2: Import Essential Libraries
 import torch
 import numpy as np
 import pandas as pd
